@@ -26,3 +26,7 @@ Se identificaron patrones territoriales y agrupaciones de comunas con caracterí
 
 ## Autor
 Camilo Hernández
+
+SE COMPARTE LINK DEL DRIVE:
+
+https://drive.google.com/drive/folders/1w59lCnKZflXx-DeJNioVedRd_WdjUM-V?usp=drive_link
