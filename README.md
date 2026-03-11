@@ -30,3 +30,7 @@ Camilo Hernández
 SE COMPARTE LINK DEL DRIVE:
 
 https://drive.google.com/drive/folders/1w59lCnKZflXx-DeJNioVedRd_WdjUM-V?usp=drive_link
+
+## Dashboard
+
+A continuación se presentan algunas visualizaciones del dashboard desarrollado para el análisis:
